@@ -1,4 +1,4 @@
-# SCOx
+# Linear Optimization
 
 This repository contains opertaions and supply chain optimation projects using python and data science to solve challenging real world problems.<br> 
 Some of these I have used to manage my Operations and Supply Chain responsibilities throughout my career.<br>

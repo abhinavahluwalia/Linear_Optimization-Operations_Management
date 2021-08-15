@@ -1,0 +1,5 @@
+Product Category,Product Qty (unknowns),Min Req Qty,COGS (Lakhs),Cycle time (Days),Sale Price (Lakhs)
+General,x1,15,2.6,0.8,3.3
+Sleeper,x2,8,2.55,0.6,3.4
+3Tier,x3,12,2.8,0.8,3.8
+2Tier,x4,10,4.2,1.4,5.9
